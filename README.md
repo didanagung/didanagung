@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @didanagung / Didan Agung Sergia
+- 👋 Hi, I’m @didanagung / Didan Agung Sergia (ujangBedil)
 - 👀 I’m interested in HTML, CSS, JavaScript, and PHP language
 - 🌱 I’m junior web developer
 
